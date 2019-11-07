@@ -12,11 +12,11 @@ All you have to do is recreate this animation! But wait!??!!! How am I suppose t
 What you need:
 1. Apple is using [this library for the wave animation](https://wavesurfer-js.org/). Visit the "examples" section to see all the things you can do with it. 
 2. You need to hide the play button and just have the wave play automatically in the background. 
-3. Bonus if you want to add scrolling events like Apple does onthe website so the wave movoes from left to right! (there are lots of libraries online for you to do this).
-4. Show off to your friends
+3. Bonus if you want to add scrolling events like Apple does onthe website so the wave moves from left to right (there are lots of libraries online for you to do this).
+4. Show off to your friends.
 
 ## Submissions:
-At the end of the challenge, we will post everyone's custom animations page down below so make sure you read below for the submission guidelines (In *The Rules Are* section)!
+At the end of the challenge, we will post everyone's custom animations page down below so you can see what others have done. In order to see your submission below, make sure you read the next section for the submission guidelines (In *The Rules Are* section)!
   
 
 ## The Rules Are:
